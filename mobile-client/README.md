@@ -57,7 +57,7 @@ A production-grade, real-time vision tracking engine that translates mid-air han
   <tr>
     <td><img src="assets/images/screenshot_09.png" width="220" /></td>
     <td><img src="assets/images/screenshot_08.png" width="220" /></td>
-    <td><img src="assets/images/screenshot_11.png" width="220" /></td>
+    <td><img src="assets/images/screenshot_07.png" width="220" /></td>
   </tr>
   <tr>
     <td align="center"><strong>Creator Profile (Light)</strong></td>
@@ -66,17 +66,17 @@ A production-grade, real-time vision tracking engine that translates mid-air han
   </tr>
   <tr>
     <td><img src="assets/images/screenshot_04.png" width="220" /></td>
-    <td><img src="assets/images/screenshot_07.png" width="220" /></td>
+    <td><img src="assets/images/screenshot_05.png" width="220" /></td>
     <td><img src="assets/images/screenshot_02.png" width="220" /></td>
   </tr>
   <tr>
     <td align="center"><strong>Onboarding — Pinch</strong></td>
-    <td align="center"><strong>Onboarding — Tutorial</strong></td>
+    <td align="center"><strong>Dashboard (Idle)</strong></td>
     <td align="center"><strong>Logo</strong></td>
   </tr>
   <tr>
-    <td><img src="assets/images/screenshot_05.png" width="220" /></td>
     <td><img src="assets/images/screenshot_03.png" width="220" /></td>
+    <td><img src="assets/images/screenshot_11.png" width="220" /></td>
     <td><img src="assets/images/spatial_tracer_logo.png" width="220" /></td>
   </tr>
 </table>
