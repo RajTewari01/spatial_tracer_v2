@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">Spatial Tracer Air Gesture Controller: Enables you to control your device using air gestures.</string>
+</resources>
